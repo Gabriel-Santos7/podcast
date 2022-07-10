@@ -1,7 +1,7 @@
 export default function Home(props) {
   return (
     <div>
-      <h1>User</h1>
+      <h1>Teste User</h1>
       <p>{JSON.stringify(props.episodes)}</p>
     </div>
   );
